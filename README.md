@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a final-year **B.Tech CSE student** from Tirupati, India — graduating May 2026 with a **9.0 CGPA** — focused on backend Java development and building production-ready applications.
 
@@ -45,7 +45,7 @@ I practice DSA consistently on **LeetCode** and **Coding Ninjas**, and hold cert
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🛒 E-Commerce Payment & Ordering System *(In Progress)*
 > Java Servlets · JDBC · MySQL · HTML · CSS · Tomcat
